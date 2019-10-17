@@ -1,0 +1,4 @@
+#Thu Oct 17 16:26:57 BRT 2019
+base.0=/home/leonardo/Sistemas/PETMonitor/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

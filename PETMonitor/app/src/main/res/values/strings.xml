@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PETMonitor</string>
+    <string name="TituloButton">Check</string>
+
+
+    <string name="textLatitude">Latitude:</string>
+    <string name="textLongitude">Longitude:</string>
+    <string name="textResult">Resultado:</string>
+</resources>
